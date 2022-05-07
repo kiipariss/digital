@@ -910,7 +910,15 @@ h6 {
   background-color: rgba(0, 0, 0, 0.233);
 }
 
+.form__tel {
+  background-image: url("../img/icon/tel.svg");
+  background-repeat: no-repeat;
+  background-position: 10px;
+  text-indent: 20px;
+}
+
 .form__tel:focus {
+  background-image: url("");
   border: 2px solid #ffffff;
   background-color: rgba(0, 0, 0, 0.233);
 }
