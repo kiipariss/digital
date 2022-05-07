@@ -2755,7 +2755,7 @@ h6 {
   }
 
   .no-webp .home{
-    background-image: url("../img/background(420).png"); }
+    background-image: url("../img/Background(420).png"); }
 
   .home {
     background-position: 0 0;
@@ -3036,7 +3036,7 @@ h6 {
 
 @media (max-width: 514px){
 
-  .webp .home{ background-image: url(../img/background(420).webp); }
+  .webp .home{ background-image: url(../img/Background(420).webp); }
 }
 
 @media (max-width: 514px){
